@@ -21,7 +21,7 @@
     "react-table-v6": "^6.8.6",
     "read-excel-file": "^4.0.6",
     "wrapper": "^0.1.0",
-    "xlsx": "^0.16.1"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
